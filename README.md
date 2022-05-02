@@ -1,3 +1,3 @@
-# build-crostini-environment
+# crostini-build-environment
 
-build a Chromebook (Crostini) environment for daily-use, software development, and so on
+Environment building script for crostini
